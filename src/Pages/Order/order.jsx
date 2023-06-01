@@ -3,9 +3,13 @@ import Orderlink from '../../Components/Orderlink/orderlink'
 import uber from '../../assets/uber-eats.png'
 import deliveroo from '../../assets/deliveroo.png'
 import livraison  from '../../assets/livraison.png'
+import { useEffect } from 'react'
 export default function Order(){
     const ubereatslink = "https://www.ubereats.com/store/le-45/N_iS9p7PTgebt7xysAUwnA?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxlJTIwNDUlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKZGVGYVozeDc1a2NSanR4VFdyR1l3NVUlMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNDguNzg2NjI3NDk5OTk5OTklMkMlMjJsb25naXR1ZGUlMjIlM0EyLjIyNDc4NzA5OTk5OTk5OSU3RA%3D%3D&ps=1"
     const deliveroolink = "https://deliveroo.fr/fr/menu/Paris/meudon-la-foret/le-45-meudon?day=today&geohash=u09td9qp878f&time=1915"
+    useEffect(() => {
+        window.scrollTo(0, 0)
+      }, [])
     return (
         <section className="order">
             <div className="order__header">

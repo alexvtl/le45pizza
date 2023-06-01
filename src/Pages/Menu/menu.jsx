@@ -19,6 +19,8 @@ export default function Menu(){
                 .catch((error) => console.log(error));
             };
         getData();
+        window.scrollTo(0, 0)
+        
       }, []);
 
     return(

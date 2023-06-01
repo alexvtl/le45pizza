@@ -221,105 +221,105 @@
                 "prix":"2"
             },
             {
-                "id":"26",
+                "id":"27",
                 "name":"Coca-Cola zéro 50cl",
                 "picture":"../../assets/pizza final/cocazero.jpeg",  
                 "description":"",
                 "prix":"2"
             },
             {
-                "id":"27",
+                "id":"28",
                 "name":"Coca-cola Cherry 50cl",
                 "picture":"../../assets/pizza final/cocacherry.jpeg",  
                 "description":"",
                 "prix":"2"
             },
             {
-                "id":"28",
+                "id":"29",
                 "name":"Coca-Cola 1,5L",
                 "picture":"../../assets/pizza final/coca1l.jpeg",
                 "description":"",
                 "prix":"3"
             },
             {
-                "id":"29",
+                "id":"30",
                 "name":"Lipton Ice tea 33cl",
                 "picture":"../../assets/pizza final/icetea33cl.jpeg",
                 "description":"",
                 "prix":"1.50"
             },
             {
-                "id":"30",
+                "id":"31",
                 "name":"Lipton Ice tea 1,5L",
                 "picture":"../../assets/pizza final/icetea1l.jpeg",
                 "description":"",
                 "prix":"3"
             },
             {
-                "id":"31",
+                "id":"32",
                 "name":"Perrier 33cl",
                 "picture":"../../assets/pizza final/perrier.jpeg",
                 "description":"",         
                 "prix":"1.50"
             },
             {
-                "id":"32",
+                "id":"33",
                 "name":"Oasis tropical 33cl",
                 "picture":"../../assets/pizza final/oasis33cl.jpeg",
                 "description":"",           
                 "prix":"1.50"
             },
             {
-                "id":"33",
+                "id":"34",
                 "name":"Tropico 33cl",
                 "picture":"../../assets/pizza final/tropico.jpeg",
                 "description":"",
                 "prix":"1.50"
             },
             {
-                "id":"34",
+                "id":"35",
                 "name":"Orangina 33cl",
                 "picture":"../../assets/pizza final/orangina.jpeg",
                 "description":"",
                 "prix":"1.50"
             },
             {
-                "id":"35",
+                "id":"36",
                 "name":"Schweppes agrume 33cl",
                 "picture":"../../assets/pizza final/schweppes.jpeg",
                 "description":"",
                 "prix":"1.50"
             },
             {
-                "id":"36",
+                "id":"37",
                 "name":"Oasis pomme cassis framboise 33cl",
                 "picture":"../../assets/pizza final/oasispomme.jpeg",
                 "description":"",
                 "prix":"1.50"
             },
             {
-                "id":"36",
+                "id":"38",
                 "name":"Fanta citron 33cl",
                 "picture":"../../assets/pizza final/fantacitron.png",
                 "description":"",
                 "prix":"1.50"
             },
             {
-                "id":"37",
+                "id":"39",
                 "name":" Cristaline 50cl",
                 "picture":"../../assets/pizza final/cristaline.jpeg",
                 "description":"",
                 "prix":"1"
             },
             {
-                "id":"37",
+                "id":"40",
                 "name":"red bull 25cl",
                 "picture":"../../assets/pizza final/redbull.jpeg",
                 "description":"",
                 "prix":"2.5"
             },
             {
-                "id":"39",
+                "id":"41",
                 "name":"Capri-Sun 33cl",
                 "picture":"../../assets/pizza final/capri-sun-100ml.jpeg", 
                 "description":"",

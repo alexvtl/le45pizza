@@ -20,7 +20,7 @@ export default function Footer(){
                         Pages
                     </h3>
                     <li className='list__pages_li'>
-                        <Link className='list__pages_li_link' to={"/"}>Home</Link>
+                        <Link className='list__pages_li_link' to={"/"}>Accueil</Link>
                     </li>
                     <li className='list__pages_li'>
                         <Link className='list__pages_li_link' to={"/menu"}>Menu</Link>

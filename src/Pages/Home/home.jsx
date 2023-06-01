@@ -18,17 +18,21 @@ import pizzafrom from '../../assets/pizza final/pizza 4 fromages pro.png'
 import pizzaleg from '../../assets/pizza final/pizza leg v6.png'
 import tiramisu from '../../assets/pizza final/tiramisu chocolate speculos.png'
 import { Link } from 'react-router-dom'
+import { useEffect } from 'react'
 
 export default function Home(){
+    useEffect(() => {
+        window.scrollTo(0, 0)
+      }, [])
     return (
         <main id="home">
             <header className='Home__header'>
                 <ul className='Home__header_ul'>
                 <li>
-                    Pizza à partir de 5,5 €
+                    Pizza à partir de 5,50 €
                     </li>
                     <li>
-                    Tous nos produits sont faits maison avec des ingrédients frais
+                    Produits faits maison avec des ingrédients frais
                     </li>
                     <li>
                     Sans fritures

@@ -48,7 +48,7 @@ export default function Header(){
             <div className='menu__home__container'>
                 <NavListContainer>
                 <ul className='nav__menu__container'>
-                    <li><NavLink to={"/"}  onClick={togglemenu} className="navlink_menu">Home</NavLink></li>
+                    <li><NavLink to={"/"}  onClick={togglemenu} className="navlink_menu">Accueil</NavLink></li>
                     <li><NavLink className="navlink_menu établissements" to={"/"} onClick={toggleUnderMenu}>Établissements</NavLink></li>
                     <li><NavLink to={"/menu"}  onClick={togglemenu} className="navlink_menu">Menu</NavLink></li>
                     <li><NavLink to={"/commandes"} onClick={togglemenu} className="navlink_menu">Livraison & À emporter</NavLink></li>
