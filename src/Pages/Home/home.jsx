@@ -28,7 +28,7 @@ export default function Home(){
                     Pizza à partir de 5,5 €
                     </li>
                     <li>
-                    Tous nos produits sont fait maison avec des ingrédients frais
+                    Tous nos produits sont faits maison avec des ingrédients frais
                     </li>
                     <li>
                     Sans fritures

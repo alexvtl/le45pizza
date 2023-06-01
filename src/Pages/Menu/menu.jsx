@@ -26,7 +26,7 @@ export default function Menu(){
             <header className='menu__header'>
                 <ul className='menu__header_ul'>
                     <li>
-                    Produits fait maison
+                    Produits faits maison
                     </li>
                     <li>
                     Ingrédients frais

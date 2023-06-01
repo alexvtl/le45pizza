@@ -1,7 +1,7 @@
 [
    {
      "slug": "Pizza",
-     "title": "Pizza 🍕",
+     "title": "Pizzas 🍕",
      "items":[
         {
             "id":"1",
@@ -143,7 +143,7 @@
     },
     {
         "slug":"Sandwich",
-        "title":"Sandwich 🥪",
+        "title":"Sandwichs 🥪",
         "items":[
             {
                 "id":"18",
@@ -204,7 +204,7 @@
     },
     {
         "slug":"Boisson",
-        "title":"Boisson 🥤",
+        "title":"Boissons 🥤",
         "items":[
             {
                 "id":"25",
