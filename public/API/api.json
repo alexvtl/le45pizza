@@ -1,0 +1,330 @@
+[
+   {
+     "slug": "Pizza",
+     "title": "Pizza 🍕",
+     "items":[
+        {
+            "id":"1",
+            "name":"Marguerita 🍅",
+            "cat":"basic",
+            "picture":"../../src/assets/pizza final/pizza mozza prompt exemple.png",
+            "description":"Sauce tomate italienne ail basilic Mozzarella 100% française, origan",
+            "prix":"5.5"
+        },
+        {
+            "id":"2",
+            "name":"Jambon 🥓",
+            "cat":"basic",
+            "picture":"../../src/assets/pizza final/pizza jambon v2.png",
+            "description":"Sauce tomate italienne ail et basilic Mozzarella 100%, jambon dinde (AVS), origan",
+            "prix":"6.5"
+        },
+        {
+            "id":"3",
+            "name":"10 légumes 🫑",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza leg v6.png",
+            "description":"Sauce tomate, Mozzarella 100%, aubergines, courgettes marinées, tomates séchées, champignons, poivrons, pommes de terre, olives, oignons caramélisés, tomates rondelles et oignons",
+            "prix":"9"
+        },
+        {
+            "id":"4",
+            "name":"4 jambons 🦃",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza 4 jambon final.png",
+            "description":"Sauce tomate italiennes , Mozzarella 100% française, jambon dinde , lardons fumés, bacon dinde et rondelles chorizo.",
+            "prix":"9"
+        },
+        {
+            "id":"5",
+            "name":"tartiflette  🫕",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza tartiflette.png",
+            "description":"Base crème fraîche, mozzarella 100% française, reblochon, lardons fumés, pomme de terre, ognion rouge",
+            "prix":"9"
+        },
+        {
+            "id":"6",
+            "name":"6 fromages 🧀",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza 4 fromages pro.png",
+            "description":"Sauce tomate, Mozzarella 100%, chèvre, Cheddar, Boursin, Reblochon et bleu, origan",
+            "prix":"9"
+        },
+        {
+            "id":"7",
+            "name":"chèvre-miel 🍯",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza chevre miel.png",
+            "description":"base tomate, mozzarella (100%), rondelles de chèvre, miel de fleurs, origan.",
+            "prix":"9"
+        },
+        {
+            "id":"8",
+            "name":"La française 🇫🇷",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza francaise .png",
+            "description":"Base crème, mozzarella (100%), emmental, moutarde, poulet nature, tomate, jambon , lardons fumés , oignons rouges",
+            "prix":"9"
+        },
+        {
+            "id":"9",
+            "name":"La Napolitaine 🇮🇹",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza napolitaine v3 pro.png",
+            "description":"base tomate, mozzarella (100%), mozzarella Di buffala, jambon, huile olive, origan",
+            "prix":"10"
+        },
+        {
+            "id":"10", 
+            "name":"La Tunisienne 🇹🇳",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza tunisienne semi pro.png",
+            "description":"base tomate ,harissa, mozzarella (100%), thon, olives, piments rouges, poivrons marinés, pomme de terre maison",
+            "prix":"9"
+        },
+        {
+            "id":"11",
+            "name":"La Portugaise 🇵🇹",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza portugaise v2 pro.png",
+            "description":"base tomate, mozzarella (100%), escalope de poulet , ananas",
+            "prix":"9"
+        },
+        {
+            "id":"12",
+            "name":"L'Indienne 🇮🇳",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza indienne.png",
+            "description":"base curry, mozzarella (100%), poulet , poivrons, oignons rouges, bacon, olives.",
+            "prix":"9"
+        },
+        {
+            "id":"13",
+            "name":"L'Algérienne 🇩🇿",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza algerienne 1 oeuf pro.png",
+            "description":"Base tomate, mozzarella française, merguez, oeuf, poivrons, oignons caramélisés",
+            "prix":"9"
+        },
+        {
+            "id":"14",
+            "name":"La Turque 🇹🇷",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza turque exemple v8.png",
+            "description":"Crème à l'ail, mozzarella, doner kebab, poivrons, oignons caramélisés, tomates rondelles, cheddar",
+            "prix":"9"
+        },
+        {
+            "id":"15",
+            "name":"L'Américaine 🇺🇸",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza americaine v1.png",
+            "description":"base biggy, barbecue fumée, mozzarella (100%), steack haché, bacon, oignons rouges",
+            "prix":"9"
+        },
+        {
+            "id":"16",
+            "name":"La Norvégienne 🇳🇴",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza norvegienne v2.png",
+            "description":"Crème à l'ail, 100% mozzarella française, saumon Labeyrie, pomme de terre maison,citron",
+            "prix":"10"
+        },
+        {
+            "id":"17",
+            "name":"La 45 🤤",
+            "cat":"signatures",
+            "picture":"../../src/assets/pizza final/pizza la 45.png",
+            "description":"Base tomate a l'ail, mozzarella française 100%, 6 fromages, kefta Viande hachée épicée maison, bacon,rondelles tomates fraîches",
+            "prix":"12"
+        }
+     ]
+    },
+    {
+        "slug":"Sandwich",
+        "title":"Sandwich 🥪",
+        "items":[
+            {
+                "id":"18",
+                "name":"Croque Jambon Boursin",
+                "picture":"../../src/assets/pizza final/croque jambon.png",
+                "description":"Pain de mie complet toasté, mayo allégée, jambon, boursin, cheddar, ognions rouges",
+                "prix":"2.5"
+            },
+            {
+                "id":"19",
+                "name":"Panini kebab",
+                "picture":"../../src/assets/pizza final/panini.png",
+                "description":"Pain Kebab toasté ( origine France ), mozzarella, oignons caramélisés, cheddar , sauce biggy, filet barbecue , tomates",
+                "prix":"5.5"
+            },
+            {
+                "id":"20",
+                "name":"Chesse bacon toasté",
+                "picture":"../../src/assets/pizza final/burger.jpeg",
+                "description":"Pain cheese brioché steak hachée, cheddar, bacon, sauce biggy et barbecue, tomates, ognions caramélisés",
+                "prix":"2.5"
+            }
+        ]
+    },
+    {
+        "slug":"Dessert",
+        "title":"Dessert 🍦",
+        "items":[
+            {
+                "id":"21",
+                "name":"Tiramisu",
+                "picture":"../../src/assets/pizza final/tiramisu.png",
+                "description":"chocolat, noisette, spéculos",
+                "prix":"3"
+            },
+            {
+                "id":"22",
+                "name":"Fondant chocolat",
+                "picture":"../../src/assets/pizza final/ffondant au chocolat.png",
+                "description":"chocolat",
+                "prix":"3"
+            },
+            {
+                "id":"23",
+                "name":"Tarte aux daims",
+                "picture":"../../src/assets/pizza final/tarte daim.jpeg",
+                "description":"daims",
+                "prix":"3"
+            },
+            {
+                "id":"24",
+                "name":"Glace Haägen-Dazs",
+                "picture":"../../src/assets/pizza final/Haägen-Dazs_beurre_salé-removebg-preview.png",
+                "description":"100 ml caramel, beurre salé",
+                "prix":"3.50"
+            }
+        ]
+    },
+    {
+        "slug":"Boisson",
+        "title":"Boisson 🥤",
+        "items":[
+            {
+                "id":"25",
+                "name":"Coca-Cola 33cl",
+                "picture":"../../src/assets/pizza final/coca.jpeg",  
+                "description":"",          
+                "prix":"1.50"
+            },
+            {
+                "id":"26",
+                "name":"Coca-Cola 50cl",
+                "picture":"../../src/assets/pizza final/coca50cl.jpeg",  
+                "description":"",
+                "prix":"2"
+            },
+            {
+                "id":"26",
+                "name":"Coca-Cola zéro 50cl",
+                "picture":"../../src/assets/pizza final/cocazero.jpeg",  
+                "description":"",
+                "prix":"2"
+            },
+            {
+                "id":"27",
+                "name":"Coca-cola Cherry 50cl",
+                "picture":"../../src/assets/pizza final/cocacherry.jpeg",  
+                "description":"",
+                "prix":"2"
+            },
+            {
+                "id":"28",
+                "name":"Coca-Cola 1,5L",
+                "picture":"../../src/assets/pizza final/coca1l.jpeg",
+                "description":"",
+                "prix":"3"
+            },
+            {
+                "id":"29",
+                "name":"Lipton Ice tea 33cl",
+                "picture":"../../src/assets/pizza final/icetea33cl.jpeg",
+                "description":"",
+                "prix":"1.50"
+            },
+            {
+                "id":"30",
+                "name":"Lipton Ice tea 1,5L",
+                "picture":"../../src/assets/pizza final/icetea1l.jpeg",
+                "description":"",
+                "prix":"3"
+            },
+            {
+                "id":"31",
+                "name":"Perrier 33cl",
+                "picture":"../../src/assets/pizza final/perrier.jpeg",
+                "description":"",         
+                "prix":"1.50"
+            },
+            {
+                "id":"32",
+                "name":"Oasis tropical 33cl",
+                "picture":"../../src/assets/pizza final/oasis33cl.jpeg",
+                "description":"",           
+                "prix":"1.50"
+            },
+            {
+                "id":"33",
+                "name":"Tropico 33cl",
+                "picture":"../../src/assets/pizza final/tropico.jpeg",
+                "description":"",
+                "prix":"1.50"
+            },
+            {
+                "id":"34",
+                "name":"Orangina 33cl",
+                "picture":"../../src/assets/pizza final/orangina.jpeg",
+                "description":"",
+                "prix":"1.50"
+            },
+            {
+                "id":"35",
+                "name":"Schweppes agrume 33cl",
+                "picture":"../../src/assets/pizza final/schweppes.jpeg",
+                "description":"",
+                "prix":"1.50"
+            },
+            {
+                "id":"36",
+                "name":"Oasis pomme cassis framboise 33cl",
+                "picture":"../../src/assets/pizza final/oasispomme.jpeg",
+                "description":"",
+                "prix":"1.50"
+            },
+            {
+                "id":"36",
+                "name":"Fanta citron 33cl",
+                "picture":"../../src/assets/pizza final/fantacitron.png",
+                "description":"",
+                "prix":"1.50"
+            },
+            {
+                "id":"37",
+                "name":" Cristaline 50cl",
+                "picture":"../../src/assets/pizza final/cristaline.jpeg",
+                "description":"",
+                "prix":"1"
+            },
+            {
+                "id":"37",
+                "name":"red bull 25cl",
+                "picture":"../../src/assets/pizza final/redbull.jpeg",
+                "description":"",
+                "prix":"2.5"
+            },
+            {
+                "id":"39",
+                "name":"Capri-Sun 33cl",
+                "picture":"../../src/assets/pizza final/capri-sun-100ml.jpeg", 
+                "description":"",
+                "prix":"1"
+            }
+        ]
+    }
+]
