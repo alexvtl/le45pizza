@@ -52,6 +52,7 @@
             width: auto;
         }
     }
+    
 }
 
 .nav__menu__container{
@@ -111,4 +112,17 @@ padding:50px;
         
 }
 }
+}
+
+.up{
+    z-index: 9;
+    position:fixed;
+    bottom: 0px;
+    right: 0px;
+    transform: rotate(180deg);
+    cursor: pointer;
+    width: auto;
+    img{
+        width: 80px;
+    }
 }

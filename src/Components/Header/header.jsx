@@ -5,6 +5,8 @@ import { NavLink } from 'react-router-dom'
 import { styled,keyframes } from 'styled-components'
 import close from '../../assets/close.png'
 import { useState } from 'react'
+import up from '../../assets/down.png'
+import { useEffect } from 'react'
 
 const MenuHeader = styled.div`
 backdrop-filter: blur(2px);
@@ -30,7 +32,7 @@ z-index:20;
 export default function Header(){
     const [openMenu,setopenmenu] = useState(false)
     const [openundermenu,setundermenu] = useState(false)
-    
+    const [scrolltop,setscrolltop] = useState()
     function toggleUnderMenu(){
         openundermenu ? setundermenu(false) : setundermenu(true)
         
@@ -38,8 +40,15 @@ export default function Header(){
     function togglemenu(){
         setundermenu(false)
         openMenu ? setopenmenu(false) : setopenmenu(true)
-        
      }
+        window.addEventListener('scroll',()=>{
+            setscrolltop(document.documentElement.scrollTop);
+        })
+        
+    function scrolltotop(){
+        window.scrollTo(0, 0)
+    }
+     
     return (
         <>
         { openMenu &&( 
@@ -68,7 +77,6 @@ export default function Header(){
                 </div>
                 </NavListContainer>
             </div>
-            
             </div>
         )}
         <header className='header1'>
@@ -79,6 +87,8 @@ export default function Header(){
                 </NavLink>
             </div>
         </header>
+        {scrolltop > 0 && (<div className='up'><img src={up} alt="" onClick={scrolltotop} /></div>)
+}
         </>
     )
 }
