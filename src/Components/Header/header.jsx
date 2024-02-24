@@ -41,9 +41,9 @@ export default function Header(){
         setundermenu(false)
         openMenu ? setopenmenu(false) : setopenmenu(true)
      }
-        window.addEventListener('scroll',()=>{
+    window.addEventListener('scroll',()=>{
             setscrolltop(document.documentElement.scrollTop);
-        })
+    })
         
     function scrolltotop(){
         window.scrollTo(0, 0)
