@@ -28,8 +28,8 @@ export default function Home() {
     <main id="home">
       <header className="Home__header">
         <ul className="Home__header_ul">
-          <li>Pizza à partir de 5,50 €</li>
-          <li>Produits qualité supérieure</li>
+          <li>Pizzas à partir de 5,50 €</li>
+          <li>Viandes de boucherie (steak haché, merguez, poulet)</li>
           <li>Ingrédients frais, cuisinés, marinés</li>
         </ul>
       </header>
@@ -45,18 +45,17 @@ export default function Home() {
         <div className="section2__box">
           <span>
             <h2>
-              Bienvenue chez Le 45 Pizza ! Retrouvez-nous dans notre restaurant
-              à Meudon-la-forêt
+              Bienvenue au 45 ! Retrouvez-nous dans notre restaurant à
+              Meudon-la-forêt
             </h2>
           </span>
           <span>
             <p>
               Au 45 Pizza, vous pourrez retrouver une cuisine de qualité au
               meilleur prix, fait maison et avec des ingrédients frais . Testez
-              ainsi nos délicieuses pizzas, nos croques, nos Paninis kebab ou
-              bien laissez-vous tenter par nos délicieux desserts. Vivez
-              l’expérience en livraison ou à emporter ! A bientôt chez Le 45
-              pizza !
+              ainsi nos délicieuses pizzas, nos tacos et burgers maison ou bien
+              laissez-vous tenter par nos délicieux desserts. Vivez l’expérience
+              en livraison ou à emporter ! A bientôt au 45 !
             </p>
           </span>
           <div className="section2__button">

@@ -8,7 +8,7 @@
         "name": "Marguerita 🍅",
         "cat": "basic",
         "picture": "../../assets/pizza final/pizza mozza prompt exemple.png",
-        "description": "Sauce tomate italienne ail Mozzarella 100% française, origan",
+        "description": "Sauce tomate italienne, ail, Mozzarella 100% française, origan",
         "prix": "5.5"
       },
       {
@@ -16,7 +16,7 @@
         "name": "Jambon 🥓",
         "cat": "basic",
         "picture": "../../assets/pizza final/pizza jambon v2.png",
-        "description": "Sauce tomate italienne ail et Mozzarella 100%, jambon dinde (AVS), origan",
+        "description": "Sauce tomate italienne, ail, Mozzarella 100%, jambon dinde (AVS), origan",
         "prix": "6.5"
       },
       {
@@ -40,7 +40,7 @@
         "name": "tartiflette  🫕",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza tartiflette.png",
-        "description": "Base crème fraîche, mozzarella 100% française, reblochon, lardons fumés, pomme de terre, ognion rouge",
+        "description": "Base crème fraîche, mozzarella 100% française, reblochon, lardons fumés, pomme de terre, oignions rouge",
         "prix": "9"
       },
       {
@@ -56,7 +56,7 @@
         "name": "chèvre-miel 🍯",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza chevre miel.png",
-        "description": "base tomate, mozzarella (100%), rondelles de chèvre, noix, miel de fleurs, origan.",
+        "description": "Base tomate, mozzarella (100%), rondelles de chèvre, noix, miel de fleurs, origan.",
         "prix": "9"
       },
       {
@@ -72,7 +72,7 @@
         "name": "La Napolitaine 🇮🇹",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza napolitaine v3 pro.png",
-        "description": "base tomate, mozzarella (100%), mozzarella Di buffala, jambon, huile olive, origan",
+        "description": "Base tomate, mozzarella (100%), mozzarella Di buffala, jambon, huile olive, origan",
         "prix": "10"
       },
       {
@@ -80,7 +80,7 @@
         "name": "La Tunisienne 🇹🇳",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza tunisienne semi pro.png",
-        "description": "base tomate ,harissa, mozzarella (100%), thon, olives, piments, poivrons marinés, pomme de terre maison",
+        "description": "Base tomate ,harissa, mozzarella (100%), thon, olives, piments, poivrons marinés, pomme de terre maison",
         "prix": "9"
       },
       {
@@ -88,7 +88,7 @@
         "name": "L'Hawaîenne 🏝",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza portugaise v2 pro.png",
-        "description": "base tomate, mozzarella (100%), escalope de poulet , ananas, poivrons",
+        "description": "base tomate, mozzarella (100%), escalope de poulet, ananas, poivrons",
         "prix": "9"
       },
       {
@@ -96,7 +96,7 @@
         "name": "L'Indienne 🇮🇳",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza indienne.png",
-        "description": "base tomate, mozzarella (100%), poulet , poivrons, oignons rouges, bacon, olives, sauce curry.",
+        "description": "Base tomate, mozzarella (100%), poulet , poivrons, oignons rouges, bacon, olives, sauce curry.",
         "prix": "9"
       },
       {
@@ -120,7 +120,7 @@
         "name": "L'Américaine 🇺🇸",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza americaine v1.png",
-        "description": "base biggy, barbecue fumée, mozzarella (100%), steack haché, bacon, oignons rouges, cheddar",
+        "description": "Base tomate, sauce barbecue, mozzarella (100%), steak haché, bacon, oignons rouges, cheddar",
         "prix": "9"
       },
       {
@@ -128,7 +128,7 @@
         "name": "La Norvégienne 🇳🇴",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza norvegienne v2.png",
-        "description": "Crème fraîche, 100% mozzarella française, saumon Labeyrie, pomme de terre maison, oignons rouges",
+        "description": "Crème fraîche, 100% mozzarella française, saumon Labeyrie, pomme de terre maison, oignons rouges, aneth",
         "prix": "10"
       },
       {
@@ -156,14 +156,14 @@
         "id": "19",
         "name": "Tacos maison",
         "picture": "../../assets/pizza final/panini.png",
-        "description": "2 viandes, sauce fromagère maison , frites potatoes, tomate cerise, oignons caramélisés, galette blé toasté",
+        "description": "2 viandes, sauce fromagère maison, frites potatoes, tomate cerise, oignons caramélisés, galette blé toasté",
         "prix": "9"
       },
       {
         "id": "20",
-        "name": "Chesse bacon toasté",
+        "name": "Cheese bacon toasté",
         "picture": "../../assets/pizza final/burger.jpeg",
-        "description": "Pain cheese brioché steak hachée, cheddar, bacon, sauce biggy et barbecue, tomates, ognions caramélisés",
+        "description": "Pain cheese brioché steak haché, cheddar, bacon, sauce biggy et barbecue, tomates, oignons caramélisés",
         "prix": "2.5"
       },
       {
@@ -181,9 +181,9 @@
     "items": [
       {
         "id": "21",
-        "name": "Tiramisu",
+        "name": "Tiramisu fait maison",
         "picture": "../../assets/pizza final/tiramisu.png",
-        "description": "chocolat, noisette, spéculos",
+        "description": "chocolat blanc, framboise",
         "prix": "3"
       },
       {

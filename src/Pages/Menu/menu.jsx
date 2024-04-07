@@ -28,7 +28,7 @@ export default function Menu() {
         <ul className="menu__header_ul">
           <li>Produits faits maison</li>
           <li>Ingrédients frais, cuisinés, marinés</li>
-          <li>Viande de boucherie</li>
+          <li>Viandes de boucherie (steak haché, merguez, poulet)</li>
         </ul>
       </header>
       <img className="menu__cover" src={cover} alt="" />
