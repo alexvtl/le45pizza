@@ -148,15 +148,29 @@
       {
         "id": "18",
         "name": "Croque légumes",
-        "picture": "../../assets/pizza final/croque jambon.png",
+        "picture": "../../assets/pizza final/croque legume.webp",
         "description": "3 légumes, mozzarella, mayo allégée, pain de mie complet toasté",
         "prix": "2.5"
       },
       {
         "id": "19",
-        "name": "Tacos maison",
-        "picture": "../../assets/pizza final/panini.png",
+        "name": "Tacos",
+        "picture": "../../assets/pizza final/tacos2.png",
         "description": "2 viandes, sauce fromagère maison, frites potatoes, tomate cerise, oignons caramélisés, galette blé toasté",
+        "prix": "9"
+      },
+      {
+        "id": "50",
+        "name": "Kebab",
+        "picture": "../../assets/pizza final/panini.png",
+        "description": "Pain, kebab, légumes, crème à l'ail, cheddar, salade, tomate cerise, oignons",
+        "prix": "7"
+      },
+      {
+        "id": "51",
+        "name": "Crudité",
+        "picture": "../../assets/pizza final/sandwich.png",
+        "description": "Pain, 1 viande au choix, 1 légume ou 1 fromage au choix, mayo légère, salade, tomate cerise, oignons ( thon et saumon +1,00€ )",
         "prix": "9"
       },
       {
@@ -167,10 +181,24 @@
         "prix": "2.5"
       },
       {
-        "id": "41",
+        "id": "42",
         "name": "Royal Burger",
-        "picture": "../../assets/pizza final/burger.jpeg",
-        "description": "Pain cheese brioché toasté, viande hachée, cheddar, galette de pomme de terre , salami fumé, tomate cerise, oignons caramélisés",
+        "picture": "../../assets/pizza final/burger 2.jpeg",
+        "description": "Pain cheese brioché toasté, viande hachée, cheddar, galette rousty , salami fumé, tomate cerise, oignons caramélisés ( double dose +2,00€ )",
+        "prix": "4.5"
+      },
+      {
+        "id": "42",
+        "name": "Fish burger",
+        "picture": "../../assets/pizza final/fish burger.webp",
+        "description": "Pain brioché toasté, cabillaud pané, sauce fish, cheddar, salade, tomate cerise, oignons ( double dose +2,00€ )",
+        "prix": "4.5"
+      },
+      {
+        "id": "43",
+        "name": "Mc chicken",
+        "picture": "../../assets/pizza final/chicken burger.webp",
+        "description": "Pain brioché toasté, poulet pané, cheddar, salade, tomate cerise, oignons, sauce biggy et algérienne ( double dose +2,00€ )",
         "prix": "4.5"
       }
     ]
@@ -182,7 +210,7 @@
       {
         "id": "21",
         "name": "Tiramisu fait maison",
-        "picture": "../../assets/pizza final/tiramisu.png",
+        "picture": "../../assets/pizza final/tiramisuwhite.jpeg",
         "description": "chocolat blanc, framboise",
         "prix": "3"
       },
