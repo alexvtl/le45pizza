@@ -147,7 +147,7 @@
     "items": [
       {
         "id": "18",
-        "name": "Croque légumes",
+        "name": "Croque légume",
         "picture": "../../assets/pizza final/croque legume.webp",
         "description": "3 légumes, mozzarella, mayo allégée, pain de mie complet toasté",
         "prix": "2.5"
@@ -171,7 +171,7 @@
         "name": "Crudité",
         "picture": "../../assets/pizza final/sandwich.png",
         "description": "Pain, 1 viande au choix, 1 légume ou 1 fromage au choix, mayo légère, salade, tomate cerise, oignons ( thon et saumon +1,00€ )",
-        "prix": "9"
+        "prix": "5"
       },
       {
         "id": "20",
