@@ -1,46 +1,47 @@
-.product{
-    width: 30%;
+.product {
+  width: 30%;
+  display: flex;
+  margin: 20px 0px;
+  @media (max-width: 960px) {
+    width: 100%;
+    border-top: 1px solid white;
+    padding: 10px 10px;
+    margin: 0px;
+  }
+  &__boxinfos {
+    width: 100%;
     display: flex;
-    margin: 20px 0px;
-    @media (max-width:960px) {
-        width: 100%;
-        border-top:1px solid white ;
-        padding: 10px 10px;
-        margin: 0px;
-       }
-    &__boxinfos{
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
+    flex-direction: column;
+    gap: 10px;
+  }
+  &__boximg {
+    width: 350px;
+    height: 200px;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  &__infos__name {
+    p {
+      font-weight: bold;
+      font-size: larger;
+      font-family: "Roboto";
+      text-transform: capitalize;
+    }
+  }
+  &__infos__prix {
+    font-size: 17px;
+  }
+  &__infos__desc {
+    p {
+      color: lightgray;
+      font-size: 12px;
+    }
+  }
+}
 
-    }
-    &__boximg{
-        width: 350px;
-        height: 200px;
-        img{
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }   
-    }
-    &__infos__name{
-        p{
-            font-weight: bold;
-            font-size: larger;
-            font-family: 'Roboto';
-            text-transform: capitalize;
-        }
-    }
-    &__infos__prix{
-        font-size: 17px;
-    }
-    &__infos__desc{
-        p{
-            color: lightgray;
-            font-size: 12px;
-            
-        }
-    }
-    
+.foodcat:nth-child(2) .product {
+  width: 80vw;
 }

@@ -142,6 +142,20 @@
     ]
   },
   {
+    "slug": "Pizza à composer",
+    "title": "Pizzas à composer 🍕",
+    "items": [
+      {
+        "id": "1",
+        "name": "1 viande + 3 ingrédients",
+        "cat": "basic",
+        "picture": "../../assets/pizzamade.png",
+        "description": "Viandes : Poulet nature ou curry ou tandoori, steak haché, jambon, chorizo, lardons, kebab poulet, merguez, kefta (viande hachée épicée), thon. supplément viande +1,5€, Ingrédients : Poivrons, champignons, oignons caramélisés, oignons rouges, tomate cerise ou séchée, pomme de terre, œuf, cheddar, boursin, chèvre, bleu, reblochon, olives, piment rouge, bacon, ananas.",
+        "prix": "9"
+      }
+    ]
+  },
+  {
     "slug": "Sandwich",
     "title": "Sandwichs 🥪",
     "items": [
