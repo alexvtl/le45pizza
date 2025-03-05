@@ -2,6 +2,7 @@
   {
     "slug": "Pizza",
     "title": "Pizzas 🍕",
+    "soustitle": "",
     "items": [
       {
         "id": "1",
@@ -21,6 +22,22 @@
       },
       {
         "id": "3",
+        "name": "La française 🇫🇷",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza francaise .png",
+        "description": "Base crème, mozzarella (100%), emmental, moutarde à l'ancienne, tomate cerise, jambon , lardons fumés , oignons",
+        "prix": "9"
+      },
+      {
+        "id": "4",
+        "name": "6 fromages 🧀",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza 4 fromages pro.png",
+        "description": "Sauce tomate, Mozzarella 100%, chèvre, Cheddar maison, Boursin, Reblochon et bleu, origan",
+        "prix": "9"
+      },
+      {
+        "id": "5",
         "name": "10 légumes 🫑",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza leg v6.png",
@@ -28,11 +45,36 @@
         "prix": "9"
       },
       {
+        "id": "6",
+        "name": "chèvre-miel 🍯",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza chevre miel.png",
+        "description": "Base crème, mozzarella (100%), rondelles de chèvre, noix de pécan (sur demande), miel de fleurs, origan.",
+        "prix": "9"
+      },
+      {
+        "id": "7",
+        "name": "La napolitaine ",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza la 45.png",
+        "description": "Base tomate, anchois, olives.",
+        "prix": "10"
+      },
+      {
+        "id": "9",
+        "name": "La sicilienne 🇮🇹",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza napolitaine v3 pro.png",
+        "description": "Base tomate, mozzarella (100%), mozzarella Di buffala, jambon, huile olive pimentée maison, origan",
+        "prix": "10"
+      },
+
+      {
         "id": "4",
         "name": "4 jambons 🦃",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza 4 jambon final.png",
-        "description": "Sauce tomate italiennes , Mozzarella 100% française, jambon dinde , lardons fumés, bacon dinde et rondelles chorizo.",
+        "description": "Sauce tomate italienne,    mozzarella 100% française, jambon dinde, lardons fumés, bacon dinde, rondelles pepperoni.",
         "prix": "9"
       },
       {
@@ -40,79 +82,7 @@
         "name": "tartiflette  🫕",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza tartiflette.png",
-        "description": "Base crème fraîche, mozzarella 100% française, reblochon, lardons fumés, pomme de terre, oignions rouge",
-        "prix": "9"
-      },
-      {
-        "id": "6",
-        "name": "6 fromages 🧀",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza 4 fromages pro.png",
-        "description": "Sauce tomate, Mozzarella 100%, chèvre, Cheddar, Boursin, Reblochon et bleu, origan",
-        "prix": "9"
-      },
-      {
-        "id": "7",
-        "name": "chèvre-miel 🍯",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza chevre miel.png",
-        "description": "Base tomate, mozzarella (100%), rondelles de chèvre, noix, miel de fleurs, origan.",
-        "prix": "9"
-      },
-      {
-        "id": "8",
-        "name": "La française 🇫🇷",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza francaise .png",
-        "description": "Base crème, mozzarella (100%), emmental, moutarde, poulet nature, tomate cerise, jambon , lardons fumés , oignons rouges",
-        "prix": "9"
-      },
-      {
-        "id": "9",
-        "name": "La Napolitaine 🇮🇹",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza napolitaine v3 pro.png",
-        "description": "Base tomate, mozzarella (100%), mozzarella Di buffala, jambon, huile olive, origan",
-        "prix": "10"
-      },
-      {
-        "id": "10",
-        "name": "La Tunisienne 🇹🇳",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza tunisienne semi pro.png",
-        "description": "Base tomate ,harissa, mozzarella (100%), thon, olives, piments, poivrons marinés",
-        "prix": "9"
-      },
-      {
-        "id": "11",
-        "name": "L'Hawaîenne 🏝",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza portugaise v2 pro.png",
-        "description": "base tomate, mozzarella (100%), escalope de poulet, ananas, poivrons",
-        "prix": "9"
-      },
-      {
-        "id": "12",
-        "name": "L'Indienne 🇮🇳",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza indienne.png",
-        "description": "Base tomate, mozzarella (100%), poulet , poivrons, oignons rouges, bacon, olives, sauce curry.",
-        "prix": "9"
-      },
-      {
-        "id": "13",
-        "name": "L'Algérienne 🇩🇿",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza algerienne 1 oeuf pro.png",
-        "description": "Base tomate, mozzarella française, cheddar, merguez, oeuf, poivrons, oignons caramélisés",
-        "prix": "9"
-      },
-      {
-        "id": "14",
-        "name": "La Turque 🇹🇷",
-        "cat": "signatures",
-        "picture": "../../assets/pizza final/pizza turque exemple v8.png",
-        "description": "Crème à l'ail, mozzarella, doner kebab, poivrons, oignons caramélisés, cheddar",
+        "description": "Base crème fraîche, mozzarella 100% française, reblochon, lardons fumés, pomme de terre, oignons rouge",
         "prix": "9"
       },
       {
@@ -120,7 +90,7 @@
         "name": "L'Américaine 🇺🇸",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza americaine v1.png",
-        "description": "Base tomate, sauce barbecue, mozzarella (100%), steak haché, bacon, oignons rouges, cheddar",
+        "description": "Base tomate, mozzarella, steak haché, bacon, cheddar, poivrons, oignons, filet de barbecue.",
         "prix": "9"
       },
       {
@@ -128,104 +98,244 @@
         "name": "La Norvégienne 🇳🇴",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza norvegienne v2.png",
-        "description": "Crème fraîche, 100% mozzarella française, saumon Labeyrie, pomme de terre maison, oignons rouges, aneth",
+        "description": "Crème fraîche, 100% mozzarella française, saumon, pomme de terre maison, oignons, aneth",
         "prix": "10"
+      },
+      {
+        "id": "12",
+        "name": "L'Indienne 🇮🇳",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza indienne.png",
+        "description": "Base tomate, mozzarella (100%), poulet curry , poivrons, oignons, bacon, olives, sauce curry.",
+        "prix": "9"
+      },
+
+      {
+        "id": "11",
+        "name": "L'Hawaîenne 🏝",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza portugaise v2 pro.png",
+        "description": "base tomate, mozzarella (100%), escalope de poulet, ananas, oignons caramélisés",
+        "prix": "9"
+      },
+      {
+        "id": "13",
+        "name": "L'Algérienne 🇩🇿",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza algerienne 1 oeuf pro.png",
+        "description": "Base tomate, mozzarella française, cheddar, merguez, oeuf, poivrons, oignons.",
+        "prix": "9"
+      },
+      {
+        "id": "18",
+        "name": "La Marocaine 🇲🇦",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza la 45.png",
+        "description": "Base tomate, poulet aux olives (façon tajine), carotte, oignions caramélisées.(Selon dispo)",
+        "prix": "10"
+      },
+      {
+        "id": "10",
+        "name": "La Tunisienne 🇹🇳",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza tunisienne semi pro.png",
+        "description": "Base tomate ,harissa, mozzarella (100%, thon, olives, piments, poivrons marinés, pomme de terre.",
+        "prix": "9"
+      },
+      {
+        "id": "14",
+        "name": "La Turque 🇹🇷",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza turque exemple v8.png",
+        "description": "Crème à l'ail maison, mozzarella, kebab, poivrons, oignons caramélisés, aubergines",
+        "prix": "9"
+      },
+      {
+        "id": "20",
+        "name": "L'Armenienne 🇦🇲 ",
+        "cat": "signatures",
+        "picture": "../../assets/pizza final/pizza la 45.png",
+        "description": "Base tomate, mozzarella, saucisson fumé, oignions, poivrons.",
+        "prix": "9"
       },
       {
         "id": "17",
         "name": "La 45 🤤",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza la 45.png",
-        "description": "Base tomate a l'ail, mozzarella française 100%, 6 fromages, kefta steak haché épicé maison, bacon,rondelles tomates fraîches",
+        "description": "Base tomate a l'ail, mozzarella française 100%, 6 fromages, kefta (steak haché épicé maison), bacon, tomates cerises",
         "prix": "12"
       }
     ]
   },
   {
     "slug": "Pizza à composer",
-    "title": "Pizzas à composer 🍕",
+    "title": "Pizzas à composer 🍕   9.OO€",
+    "soustitle": "",
     "items": [
       {
         "id": "1",
         "name": "1 viande + 3 ingrédients",
         "cat": "basic",
         "picture": "../../assets/pizzamade.png",
-        "description": "Viandes : Poulet nature ou curry ou tandoori, steak haché, jambon, chorizo, lardons, kebab poulet, merguez, kefta (viande hachée épicée), thon. supplément viande +1,5€, Ingrédients : Poivrons, champignons, oignons caramélisés, oignons rouges, tomate cerise ou séchée, pomme de terre, œuf, cheddar, boursin, chèvre, bleu, reblochon, olives, piment rouge, bacon, ananas.",
-        "prix": "9"
+        "description": "Supplément viandes 2€ : Poulet nature ou curry ou tandoori, steak haché, jambon, chorizo, lardons, kebab poulet, merguez, kefta (viande hachée épicée), thon, saumon (+1€). \nnSupplément ingrédients 1€ : Poivrons, champignons, aubergine, courgette, oignons caramélisés, oignons, tomate cerise ou séchée, pomme de terre, œuf, cheddar, boursin, chèvre, bleu, reblochon, olives, piments rouges, bacon, ananas.",
+        "prix": ""
+      }
+    ]
+  },
+  {
+    "slug": "Menus Midi",
+    "title": "Menus Midi 🕛",
+    "soustitle": "",
+    "items": [
+      {
+        "id": "1",
+        "name": "1 Pizza + 1 Boisson 10€",
+        "cat": "basic",
+        "picture": "../../assets/pizzamade.png",
+        "description": "(La norvegienne +1€, La 45 +3€)",
+        "prix": ""
+      },
+      {
+        "id": "2",
+        "name": "1 Pizza + 1 Boisson + 1 Tiramisu Maison 12€",
+        "cat": "basic",
+        "picture": "../../assets/pizzamade.png",
+        "description": "(La norvegienne +1€, La 45 +3€)",
+        "prix": ""
       }
     ]
   },
   {
     "slug": "Sandwich",
-    "title": "Sandwichs 🥪",
+    "title": "Sandwichs 🥪 ",
+    "soustitle": "Menus midi +3€ :   1 Sandwich + 1 Tiramisu maison ou 1 frite potatoes = 1 Boisson offerte",
     "items": [
       {
-        "id": "18",
-        "name": "Croque légume",
-        "picture": "../../assets/pizza final/croque legume.webp",
-        "description": "3 légumes, mozzarella, mayo allégée, pain de mie complet toasté",
-        "prix": "2.5"
+        "id": "50",
+        "name": "kebab poulet maison",
+        "picture": "../../assets/pizza final/panini.png",
+        "description": "Pain baguette, sauce mayo maison, salade, tomates cerises, oignons grillés, cheddar, kebab poulet mariné maison",
+        "prix": "7.50"
       },
       {
         "id": "19",
-        "name": "Tacos",
+        "name": "Tacos maison",
         "picture": "../../assets/pizza final/tacos2.png",
-        "description": "2 viandes, sauce fromagère maison, frites potatoes, tomate cerise, oignons caramélisés, galette blé toasté",
+        "description": "Mayo maison, 2 viandes (viande hachée + poulet curry), sauce fromagère maison, frites potatoes, tomate cerise, oignons caramélisés, galette blé toasté.",
         "prix": "9"
       },
       {
         "id": "50",
-        "name": "Panini kebab",
+        "name": "Panini",
         "picture": "../../assets/pizza final/panini.png",
-        "description": "Pain kebab, 100% mozzarella française, kebab poulet mariné, cheddar, salade, tomate cerise, oignons caramélisés",
-        "prix": "7"
+        "description": "Pain maison toasté, sauce à l'ail maison, 1 viande au choix, tomates cerises, oignons caramélisés, 100% mozzarella française.",
+        "prix": "7.50"
       },
       {
         "id": "51",
         "name": "Crudité",
         "picture": "../../assets/pizza final/sandwich.png",
-        "description": "Pain, 1 viande au choix, 1 légume ou 1 fromage au choix, mayo légère, salade, tomate cerise, oignons ( thon et saumon +1,00€ )",
+        "description": "Pain, mayo maison, salade, tomates, oignons, jambon ou thon, oeuf au plat, cheddar.",
         "prix": "5"
+      },
+      {
+        "id": "51",
+        "name": "Sandwich poulet nature/ curry/ Tandoori",
+        "picture": "../../assets/sandwich-au-poulet-grille.jpeg",
+        "description": "Pain baguette, mayo maison, salade, tomates, oignons grillés, poulet au choix, cheddar.",
+        "prix": "7.50"
+      },
+      {
+        "id": "51",
+        "name": "Sandwich kefta (steack haché épicé)",
+        "picture": "../../assets/pizza-5104.png",
+        "description": "Pain baguette, mayo maison, salade, tomates, oignons grillés, kefta, cheddar.",
+        "prix": "7.50"
       },
       {
         "id": "20",
         "name": "Cheese bacon toasté",
         "picture": "../../assets/pizza final/burger.jpeg",
         "description": "Pain cheese brioché steak haché, cheddar, bacon, sauce biggy et barbecue, tomates, oignons caramélisés",
-        "prix": "2.5"
+        "prix": "2.9"
       },
       {
         "id": "42",
         "name": "Royal Burger",
         "picture": "../../assets/pizza final/burger 2.jpeg",
-        "description": "Pain cheese brioché toasté, viande hachée, cheddar, galette rousty , salami fumé, tomate cerise, oignons caramélisés ( double dose +2,00€ )",
-        "prix": "4.5"
+        "description": "Pain cheese brioché toasté, viande hachée, cheddar, galette rousty , salami fumé, tomate cerise, oignons caramélisés",
+        "prix": "5.50"
       },
-      {
-        "id": "42",
-        "name": "Fish burger",
-        "picture": "../../assets/pizza final/fish burger.webp",
-        "description": "Pain brioché toasté, cabillaud pané, sauce fish, cheddar, salade, tomate cerise, oignons ( double dose +2,00€ )",
-        "prix": "4.5"
-      },
+
       {
         "id": "43",
-        "name": "Mc chicken",
+        "name": "Mc chicken (poulet pané)",
         "picture": "../../assets/pizza final/chicken burger.webp",
-        "description": "Pain brioché toasté, poulet pané, cheddar, salade, tomate cerise, oignons, sauce biggy et algérienne ( double dose +2,00€ )",
-        "prix": "4.5"
+        "description": "Pain brioché toasté, poulet pané, cheddar, salade, tomate cerise, oignons, sauce barbecue et algérienne",
+        "prix": "5.05"
+      },
+      {
+        "id": "18",
+        "name": "Croque légumes",
+        "picture": "../../assets/pizza final/croque legume.webp",
+        "description": "3 légumes, mozzarella, mayo maison, pain de mie complet toasté",
+        "prix": "2.90"
+      }
+    ]
+  },
+  {
+    "slug": "Petit plus",
+    "title": "Petit plus salé",
+    "soustitle": "",
+    "items": [
+      {
+        "id": "21",
+        "name": "Frites (potatoes)",
+        "picture": "../../assets/fries.webp",
+        "description": "Frites potatoes",
+        "prix": "3"
+      },
+      {
+        "id": "22",
+        "name": "Sauce à l' ail maison",
+        "picture": "../../assets/sauce.webp",
+        "description": "Sauce mayonnaise maison, Sauce à l’ail maison, Supplément sauce sur pizza",
+        "prix": "0.5"
+      }
+    ]
+  },
+  {
+    "slug": "Petit plus",
+    "title": "Petit plus sucré",
+    "soustitle": "",
+    "items": [
+      {
+        "id": "21",
+        "name": "Expresso",
+        "picture": "../../assets/coffee.webp",
+        "description": "Expresso",
+        "prix": "1"
+      },
+      {
+        "id": "22",
+        "name": "Thé à la menthe",
+        "picture": "../../assets/tea.webp",
+        "description": "Thé à la menthe",
+        "prix": "0.5"
       }
     ]
   },
   {
     "slug": "Dessert",
     "title": "Desserts 🍦",
+    "soustitle": "",
     "items": [
       {
         "id": "21",
         "name": "Tiramisu fait maison",
         "picture": "../../assets/pizza final/tiramisuwhite.jpeg",
-        "description": "chocolat blanc, framboise",
+        "description": "Chocolat blanc, framboise ou spéculos, crème de spéculos.",
         "prix": "3"
       },
       {
@@ -246,133 +356,71 @@
         "id": "24",
         "name": "Glace Haägen-Dazs",
         "picture": "../../assets/pizza final/glace.png",
-        "description": "100 ml caramel, beurre salé",
-        "prix": "3.50"
+        "description": "Noix de macadamia",
+        "prix": "3"
+      },
+      {
+        "id": "24",
+        "name": "Cône Extreme",
+        "picture": "../../assets/MONTAGE_CLASSICO-.jpg",
+        "description": "Cône Extreme",
+        "prix": "1"
+      },
+      {
+        "id": "24",
+        "name": "Mr freeze",
+        "picture": "../../assets/mister-freeze-sour-acidule-45ml.webp",
+        "description": "Mr freeze",
+        "prix": "0.5"
       }
     ]
   },
   {
     "slug": "Boisson",
     "title": "Boissons 🥤",
+    "soustitle": "",
     "items": [
       {
         "id": "25",
-        "name": "Coca-Cola 33cl",
-        "picture": "../../assets/pizza final/coca.jpeg",
+        "name": "Canette 33cl",
+        "picture": "../../assets/images.jpeg",
         "description": "",
-        "prix": "1.50"
+        "prix": "1.00"
       },
       {
         "id": "26",
-        "name": "Coca-Cola 50cl",
-        "picture": "../../assets/pizza final/coca50cl.jpeg",
+        "name": "Boisson 50cl",
+        "picture": "../../assets/sodas55cl.png",
         "description": "",
-        "prix": "2"
+        "prix": "1.50"
       },
       {
         "id": "27",
-        "name": "Coca-Cola zéro 50cl",
-        "picture": "../../assets/pizza final/cocazero.jpeg",
-        "description": "",
-        "prix": "2"
-      },
-      {
-        "id": "28",
-        "name": "Coca-cola Cherry 50cl",
-        "picture": "../../assets/pizza final/cocacherry.jpeg",
-        "description": "",
-        "prix": "2"
-      },
-      {
-        "id": "29",
-        "name": "Coca-Cola 1,5L",
-        "picture": "../../assets/pizza final/coca1l.jpeg",
+        "name": "Boisson 1,50L",
+        "picture": "../../assets/grand_soda.png",
         "description": "",
         "prix": "3"
-      },
-      {
-        "id": "30",
-        "name": "Lipton Ice tea 33cl",
-        "picture": "../../assets/pizza final/icetea33cl.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "31",
-        "name": "Lipton Ice tea 1,5L",
-        "picture": "../../assets/pizza final/icetea1l.jpeg",
-        "description": "",
-        "prix": "3"
-      },
-      {
-        "id": "32",
-        "name": "Perrier 33cl",
-        "picture": "../../assets/pizza final/perrier.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "33",
-        "name": "Oasis tropical 33cl",
-        "picture": "../../assets/pizza final/oasis33cl.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "34",
-        "name": "Tropico 33cl",
-        "picture": "../../assets/pizza final/tropico.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "35",
-        "name": "Orangina 33cl",
-        "picture": "../../assets/pizza final/orangina.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "36",
-        "name": "Schweppes agrume 33cl",
-        "picture": "../../assets/pizza final/schweppes.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "37",
-        "name": "Oasis pomme cassis framboise 33cl",
-        "picture": "../../assets/pizza final/oasispomme.jpeg",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "38",
-        "name": "Fanta citron 33cl",
-        "picture": "../../assets/pizza final/fantacitron.png",
-        "description": "",
-        "prix": "1.50"
-      },
-      {
-        "id": "39",
-        "name": " Cristaline 50cl",
-        "picture": "../../assets/pizza final/cristaline.jpeg",
-        "description": "",
-        "prix": "1"
       },
       {
         "id": "40",
         "name": "red bull 25cl",
         "picture": "../../assets/pizza final/redbull.jpeg",
         "description": "",
-        "prix": "2.5"
+        "prix": "2.50"
       },
       {
-        "id": "41",
-        "name": "Capri-Sun 33cl",
-        "picture": "../../assets/pizza final/capri-sun-100ml.jpeg",
+        "id": "31",
+        "name": "Blue Hawaî",
+        "picture": "../../assets/blue-hawai.webp",
         "description": "",
-        "prix": "1"
+        "prix": "2.50"
+      },
+      {
+        "id": "32",
+        "name": "Blue powerade",
+        "picture": "../../assets/powerade.jpg",
+        "description": "",
+        "prix": "2.50"
       }
     ]
   }
