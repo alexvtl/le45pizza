@@ -11,7 +11,7 @@ import place from "../../assets/place.png";
 import phone from "../../assets/phone.png";
 import city from "../../assets/planle45.png";
 import OrderButton from "../../Components/OrderButton/orderButton";
-import pizzaAmericaine from "../..//assets/pizza final/pizza_americaine_v1.png";
+import pizzaAmericaine from "/assets/pizza final/pizza_americaine_v1.png";
 import croque from "../../assets/pizza final/croque jambon v2.png";
 import pizzaAlger from "../../assets/pizza final/pizza algerienne 1 oeuf pro.png";
 import pizzafrom from "../../assets/pizza final/pizza 4 fromages pro.png";
