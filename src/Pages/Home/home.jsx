@@ -169,7 +169,7 @@ export default function Home() {
           <div className="horaires__box dimanche">
             <h4 className="horaires__day ">Dimanche</h4>
             <span className="horaires__box__time">
-              <p>Fermé</p>
+              <p>18:30 - 22:00</p>
             </span>
           </div>
         </div>

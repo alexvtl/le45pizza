@@ -57,7 +57,7 @@
         "name": "La napolitaine ",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza la 45.png",
-        "description": "Base tomate, anchois, olives.",
+        "description": "Base tomate, mozzarella Di buffala, olives.",
         "prix": "10"
       },
       {
@@ -65,7 +65,7 @@
         "name": "La sicilienne 🇮🇹",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza napolitaine v3 pro.png",
-        "description": "Base tomate, mozzarella (100%), mozzarella Di buffala, jambon, huile olive pimentée maison, origan",
+        "description": "Base tomate, mozzarella (100%), anchois, jambon, huile olive pimentée maison, origan",
         "prix": "10"
       },
 
@@ -131,7 +131,7 @@
         "name": "La Marocaine 🇲🇦",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza la 45.png",
-        "description": "Base tomate, poulet aux olives (façon tajine), carotte, oignions caramélisées.(Selon dispo)",
+        "description": "Base tomate, poulet aux olives (façon tajine), carotte, oignons caramélisées.(Selon dispo)",
         "prix": "10"
       },
       {
@@ -155,7 +155,7 @@
         "name": "L'Armenienne 🇦🇲 ",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza la 45.png",
-        "description": "Base tomate, mozzarella, saucisson fumé, oignions, poivrons.",
+        "description": "Base tomate, mozzarella, saucisson fumé, oignons, poivrons.",
         "prix": "9"
       },
       {
