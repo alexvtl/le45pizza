@@ -42,7 +42,7 @@
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza leg v6.png",
         "description": "Sauce tomate, Mozzarella 100%, aubergines, courgettes marinées, tomates séchées, champignons, poivrons, pommes de terre, olives, oignons caramélisés, tomates rondelles et oignons",
-        "prix": "9"
+        "prix": "10"
       },
       {
         "id": "6",
@@ -57,7 +57,7 @@
         "name": "La napolitaine ",
         "cat": "signatures",
         "picture": "../../assets/pizza final/pizza la 45.png",
-        "description": "Base tomate, mozzarella Di buffala, olives.",
+        "description": "Base tomate, jambon, mozzarella Di buffala, olives.",
         "prix": "10"
       },
       {
